@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jogos",
+  "info": {
+    "name": "Jogos"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Partida": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_games_galleries",
+  "info": {
+    "name": "gallery",
+    "icon": "basketball-ball"
+  },
+  "options": {},
+  "attributes": {
+    "Championshps": {
+      "type": "enumeration",
+      "enum": [
+        "capixabao"
+      ]
+    }
+  }
+}
